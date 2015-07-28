@@ -4,7 +4,7 @@ var app = express();
 var pfinance = {
 	accounts: [
 		{
-			name: "main account",
+			name: "Current",
 			accountnr: "123-12-123",
 			balance: "12983"
 		}, 
@@ -14,7 +14,7 @@ var pfinance = {
 			balance: "173"
 		}, 
 		{
-			name: "savings account",
+			name: "Savings",
 			accountnr: "125-15-125",
 			balance: "50458"
 		}
