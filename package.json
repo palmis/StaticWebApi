@@ -4,11 +4,24 @@
   "description": "A personal finance api",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Pálmi Skowronski",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "express": "^4.13.1"
-  }
+  },
+  "engines": {
+    "node": "0.12.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/palmis/StaticWebApi"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ]
 }
