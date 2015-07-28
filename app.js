@@ -6,7 +6,7 @@ var pfinance = {
 		{
 			name: "main account",
 			accountnr: "123-12-123",
-			balance: "173"
+			balance: "12983"
 		}, 
 		{
 			name: "second account",
@@ -16,24 +16,24 @@ var pfinance = {
 		{
 			name: "savings account",
 			accountnr: "125-15-125",
-			balance: "173"
+			balance: "50458"
 		}
 	],
 	budget: [
 		{
-			category: "category one",
+			category: "Groceries",
 			budget: "123",
-			spennt: "53"
+			spent: "53"
 		},
 		{
-			category: "category two",
+			category: "Alcohol",
 			budget: "143",
-			spennt: "63"
+			spent: "63"
 		},
 		{
 			category: "category three",
 			budget: "126",
-			spennt: "93"
+			spent: "93"
 		}
 	]
 };
